@@ -1,0 +1,7 @@
+pour compiler sous linux, g++ graphe.cc
+
+./a.out lance un menu deroulant, les stations sont celles des fichiers metro1 et metro2
+
+Pour rechercher un chemin, il faut faire dans le menu, puis pour la syntaxe EXACTE des noms regarder dans le fichier metro1 et regarder ce qui est après les ":", par exemple
+
+Metro2:Alexandre-Dumas -> Alexandre-Dumas
